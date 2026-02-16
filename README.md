@@ -89,10 +89,10 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 ## 📱 Screenshots of UGC Redesign
 
 ### UGC Home Page
-![UGC Home page](assets/UGC Home page.png)
+![UGC Home page](assets/ugc-home-page.png)
 
 ### About Us
-![About Us](assets/About Us.png)
+![About Us](assets/About-Us.png)
 
 ### Admission
 ![Admission](assets/Admission.png)
