@@ -98,7 +98,7 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 ![Admission](assets/Admission.png)
 
 ### Budjet & Finance
-![Budjet & Finance](assets/Budjet & Finance.png)
+![Budjet & Finance](assets/Budjet&Finance.png)
 
 ### Career Opportunities
 ![Career opportunities](assets/Career opportunities.png)
