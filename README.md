@@ -80,7 +80,8 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 
 ## 🔗 Live Prototype
 
-(Add your Figma prototype link here)
+[View Prototype on Figma](https://www.figma.com/design/TU5J1p9rOKTzDYjrrcr2Zx/Untitled?node-id=121-781&t=2WcGhov8rOhJ1dFF-1)
+
 
 ---
 
