@@ -86,4 +86,49 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 
 ## 📱 Screenshots
 
-(Add your exported UI images below)
+## 📱 Screenshots of UGC Redesign
+
+### UGC Home Page
+![UGC Home page](assets/UGC Home page.png)
+
+### About Us
+![About Us](assets/About Us.png)
+
+### Admission
+![Admission](assets/Admission.png)
+
+### Budjet & Finance
+![Budjet & Finance](assets/Budjet & Finance.png)
+
+### Career Opportunities
+![Career opportunities](assets/Career opportunities.png)
+
+### DRIC
+![DRIC](assets/DRIC.png)
+
+### HR
+![HR](assets/HR.png)
+
+### Policy
+![Policy](assets/Policy.png)
+
+### Procurement
+![Procurement](assets/Procurement.png)
+
+### Publications
+![Publications](assets/Publications.png)
+
+### Scholarships
+![Schorlarships](assets/Schorlarships.png)
+
+### Special Notices
+![Special notices](assets/Special notices.png)
+
+### Statistics
+![Statistics](assets/Statistics.png)
+
+### Universities & Institutes
+![Universities & insititutes](assets/Universities & insititutes.png)
+
+### Useful Links
+![Useful Links](assets/Useful Links.png)
