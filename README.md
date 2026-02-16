@@ -101,7 +101,7 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 ![Budjet & Finance](assets/Budjet&Finance.png)
 
 ### Career Opportunities
-![Career opportunities](assets/Career opportunities.png)
+![Career opportunities](assets/Careeropportunities.png)
 
 ### DRIC
 ![DRIC](assets/DRIC.png)
@@ -122,13 +122,13 @@ The redesign focuses on clarity, accessibility, and user-centered design princip
 ![Schorlarships](assets/Schorlarships.png)
 
 ### Special Notices
-![Special notices](assets/Special notices.png)
+![Special notices](assets/Specialnotices.png)
 
 ### Statistics
 ![Statistics](assets/Statistics.png)
 
 ### Universities & Institutes
-![Universities & insititutes](assets/Universities & insititutes.png)
+![Universities & insititutes](assets/Universities&insititutes.png)
 
 ### Useful Links
-![Useful Links](assets/Useful Links.png)
+![Useful Links](assets/UsefulLinks.png)
